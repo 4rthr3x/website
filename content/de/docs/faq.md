@@ -74,7 +74,7 @@ Der private Schlüssel wird immer auf Ihrem eigenen Server generiert und verwalt
 
 ## Was ist die Laufzeit der Let's Encrypt Zertifikate? Für wie lange sind diese gültig?
 
-Unsere Zertifikate sind 90 Tage gültig. Sie können [hier](/2015/11/09/why-90-days.html) lesen, warum das so ist.Da ist kein Weg das zu ändern, es gibt keine Ausnahme. Wir empfehlen die automatische Erneuerung Ihrer Zertifikate alle 60 Tage.
+Unsere Zertifikate sind 90 Tage gültig. Sie können [hier](/2015/11/09/why-90-days.html) lesen, warum das so ist. Da ist kein Weg das zu ändern, es gibt keine Ausnahme. Wir empfehlen die automatische Erneuerung Ihrer Zertifikate alle 60 Tage.
 
 ## Wird Let's Encrypt Organisations-Validierung (OV) oder Erweiterte Validierung (EV) Zertifikate anbieten?
 
@@ -98,7 +98,7 @@ Ja, aber nicht alle Clients unterstützen diese Funktion. [Certbot](https://cert
 
 ## Welche IP-Adressen benutzt Let's Encrypt zur Validierung meines Webservers?
 
-Wir veröffentlichen keine Liste von IP-Adressen, die wir bei der Validierung benutzen, weil diese ändern sich zu jeder Zeit. In der Zukunft validieren wir möglichweise von verschiedenen IP-Adressen zur selben Zeit. Lesen Sie [diese Nachricht](https://community.letsencrypt.org/t/validating-challenges-from-multiple-network-vantage-points) für mehr Details.
+Wir veröffentlichen keine Liste von IP-Adressen, die wir bei der Validierung benutzen, weil diese ändern sich zu jeder Zeit. In der Zukunft validieren wir möglicherweise von verschiedenen IP-Adressen zur selben Zeit. Lesen Sie [diese Nachricht](https://community.letsencrypt.org/t/validating-challenges-from-multiple-network-vantage-points) für mehr Details.
 
 ## Ich habe erfolgreich ein Zertifikat erneuert, aber die Validierung funktioniert jetzt nicht mehr - wie ist das möglich?
 
